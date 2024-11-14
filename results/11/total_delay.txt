@@ -1,0 +1,1 @@
+Total Delay of Optimized Circuit(in ns): 201596.82
